@@ -33,6 +33,8 @@ library(tidyverse)
 # the idea of Tidy-ing data is to make it easier to work with on the computer. In an un-tidy data set, generally it is good to identify the variables and make them columns, and make the rows the observations. 
 
 # now meet tidyr::separate() -- this separates elements in a single column into multiple columns
+# we practice using this code in the inteactive session on the morning of day 6. See that project.
+
 
 
 
